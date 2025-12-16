@@ -26,8 +26,4 @@
     # The token used as Authorization header when fetching from the mirror
     mirror-token: # optional
           
-            - name: Jscrambler
-  # You may pin to the exact commit or the version.
-  # uses: jscrambler/code-integrity-actions@e3bbd59be2947133dba0c6fdac9f55a3ae8b3c22
-  uses: jscrambler/code-integrity-actions@8.10.4
-          
+           
